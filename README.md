@@ -3,7 +3,7 @@ Here's a comprehensive list of topics for **Data Structures and Algorithms (DSA)
 ---
 
 ## **1. Arrays & Strings**
-- Basics of Arrays (1D, 2D)  
+- Basics of Arrays (1D, 2D) 
   - [Leetcode](https://leetcode.com/tag/array/), [GeeksforGeeks](https://www.geeksforgeeks.org/array-data-structure/)
 - Searching Algorithms:
   - **Linear Search**  
